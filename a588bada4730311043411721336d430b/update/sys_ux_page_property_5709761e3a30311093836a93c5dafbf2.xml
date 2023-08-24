@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>actionConfigId</name>
+        <page display_value="ABC">1f09761ed0303110c2a643157ece47ee</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 04:18:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>5709761e3a30311093836a93c5dafbf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>actionConfigId</sys_name>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>sys_ux_page_property_5709761e3a30311093836a93c5dafbf2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:18:27</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1110316_abc.1f09761ed0303110c2a643157ece47ee.root.actionConfigId</unique_name>
+        <value>df28e3db0f1210107d20409dc4767ee0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=5709761e3a30311093836a93c5dafbf2"/>
+</record_update>

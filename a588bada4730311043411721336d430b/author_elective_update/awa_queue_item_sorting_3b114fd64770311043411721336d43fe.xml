@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_queue_item_sorting">
+    <awa_queue_item_sorting action="DELETE">
+        <field>sys_created_on</field>
+        <order>1000</order>
+        <queue display_value="Rasing request ">a4b0cbd64770311043411721336d4374</queue>
+        <sort_direction>ascending</sort_direction>
+        <sys_class_name>awa_queue_item_sorting</sys_class_name>
+        <sys_created_by>Bhargavi.k</sys_created_by>
+        <sys_created_on>2023-08-24 04:53:43</sys_created_on>
+        <sys_id>3b114fd64770311043411721336d43fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>awa_queue_item_sorting_3b114fd64770311043411721336d43fe</sys_update_name>
+        <sys_updated_by>Bhargavi.k</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:53:43</sys_updated_on>
+    </awa_queue_item_sorting>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ABC">a588bada4730311043411721336d430b</application>
+        <file_path/>
+        <instance_id>eca5a4c3db96d95c2f68c59705961907</instance_id>
+        <instance_name>dev139645</instance_name>
+        <name>awa_queue_item_sorting_3b114fd64770311043411721336d43fe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_queue_item_sorting"><awa_queue_item_sorting action="INSERT_OR_UPDATE"><field>sys_created_on</field><order>1000</order><queue display_value="Rasing request ">a4b0cbd64770311043411721336d4374</queue><sort_direction>ascending</sort_direction><sys_class_name>awa_queue_item_sorting</sys_class_name><sys_created_by>Bhargavi.k</sys_created_by><sys_created_on>2023-08-24 04:53:43</sys_created_on><sys_id>3b114fd64770311043411721336d43fe</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_created_on</sys_name><sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package><sys_policy/><sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope><sys_update_name>awa_queue_item_sorting_3b114fd64770311043411721336d43fe</sys_update_name><sys_updated_by>Bhargavi.k</sys_updated_by><sys_updated_on>2023-08-24 04:53:43</sys_updated_on></awa_queue_item_sorting></record_update>]]></payload>
+        <payload_hash>411346423</payload_hash>
+        <record_name>sys_created_on</record_name>
+        <reverted_from/>
+        <source>e588bada4730311043411721336d430d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Bhargavi.k</sys_created_by>
+        <sys_created_on>2023-08-24 04:53:43</sys_created_on>
+        <sys_id>33118fd64770311043411721336d4301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a25e424950000001</sys_recorded_at>
+        <sys_updated_by>Bhargavi.k</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:53:43</sys_updated_on>
+        <type>Work Item Sort Order</type>
+        <update_guid>3b118fd631703110d93037b7e0e45100</update_guid>
+        <update_guid_history>3b118fd631703110d93037b7e0e45100:411346423</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sys_created_on">8788cf1247b0311043411721336d435f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 05:26:10</sys_created_on>
+        <sys_db_object display_value="" name="awa_queue_item_sorting">awa_queue_item_sorting</sys_db_object>
+        <sys_id>04f2cb88fa9c492882a1bf61e2b216a4</sys_id>
+        <sys_metadata>3b114fd64770311043411721336d43fe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_created_on</sys_name>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_scope_delete display_value="">25feafcf3efd4b7889ccf78cc7134cf1</sys_scope_delete>
+        <sys_update_name>awa_queue_item_sorting_3b114fd64770311043411721336d43fe</sys_update_name>
+        <sys_update_version display_value="awa_queue_item_sorting_3b114fd64770311043411721336d43fe">33118fd64770311043411721336d4301</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 05:26:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

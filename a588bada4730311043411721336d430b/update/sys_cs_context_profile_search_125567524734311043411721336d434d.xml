@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_context_profile_search">
+    <sys_cs_context_profile_search action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <context_profile display_value="ABC  Greetings ">1074635e47f0311043411721336d4375</context_profile>
+        <search_context_config display_value="ABC - Workspace Search">1309761ebb30311024fff239f480cbf3</search_context_config>
+        <search_result_config display_value="Service Portal Search">80eb579d53671010968addeeff7b1215</search_result_config>
+        <sys_class_name>sys_cs_context_profile_search</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 07:32:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>125567524734311043411721336d434d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>sys_cs_context_profile_search_125567524734311043411721336d434d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 07:32:35</sys_updated_on>
+    </sys_cs_context_profile_search>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_source">
+    <ais_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <datasource display_value="">x_1110316_abc_abc_table</datasource>
+        <name>ABC Table </name>
+        <sys_class_name>ais_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 04:18:34</sys_created_on>
+        <sys_id>f4193a1e4730311043411721336d4326</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ABC Table </sys_name>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>ais_search_source_f4193a1e4730311043411721336d4326</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:18:34</sys_updated_on>
+    </ais_search_source>
+</record_update>

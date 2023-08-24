@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="ABC search profile">5b09761e1b303110bdba309e62f64cf4</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 04:18:28</sys_created_on>
+        <sys_id>1f09761e69303110e858ad10fa2addf1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_synonym_dictionary.ABC search profile</sys_name>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_1f09761e69303110e858ad10fa2addf1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:18:28</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

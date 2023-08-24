@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1dd8feda4730311043411721336d43e4" extends="task" label="ABC Table " max_length="40" name="x_1110316_abc_abc_table" text_index="true" type="collection">
+        <element label="Issue Date" max_length="40" name="issue_date" type="calendar_date_time"/>
+    </element>
+</database>

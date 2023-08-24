@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_context_profile_topic">
+    <sys_cs_context_profile_topic action="INSERT_OR_UPDATE">
+        <context_profile display_value="ABC  Greetings ">1074635e47f0311043411721336d4375</context_profile>
+        <sys_class_name>sys_cs_context_profile_topic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 07:31:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>2115a3524734311043411721336d43ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>closing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>sys_cs_context_profile_topic_2115a3524734311043411721336d43ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 07:31:16</sys_updated_on>
+        <topic display_value="Closing Conversation.">57cde45053130010cf8cddeeff7b1291</topic>
+        <topic_type>closing</topic_type>
+    </sys_cs_context_profile_topic>
+</record_update>

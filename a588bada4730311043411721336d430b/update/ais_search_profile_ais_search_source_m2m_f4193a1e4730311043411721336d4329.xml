@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="ABC search profile">5b09761e1b303110bdba309e62f64cf4</profile>
+        <search_source display_value="ABC Table ">f4193a1e4730311043411721336d4326</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 04:18:34</sys_created_on>
+        <sys_id>f4193a1e4730311043411721336d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ABC search profile.ABC Table </sys_name>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_f4193a1e4730311043411721336d4329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:18:34</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Rasing request ">0eaa76124770311043411721336d4362</sc_cat_item>
+        <sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 04:29:52</sys_created_on>
+        <sys_id>22ab3a524770311043411721336d43d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desktops.Rasing request </sys_name>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>sc_cat_item_category_22ab3a524770311043411721336d43d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:29:52</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ABC">a588bada4730311043411721336d430b</application>
+        <file_path/>
+        <instance_id>eca5a4c3db96d95c2f68c59705961907</instance_id>
+        <instance_name>dev139645</instance_name>
+        <name>sc_cat_item_category_22ab3a524770311043411721336d43d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Rasing request ">0eaa76124770311043411721336d4362</sc_cat_item><sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-24 04:29:52</sys_created_on><sys_id>22ab3a524770311043411721336d43d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Desktops.Rasing request </sys_name><sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package><sys_policy/><sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope><sys_update_name>sc_cat_item_category_22ab3a524770311043411721336d43d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-24 04:29:52</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1156435637</payload_hash>
+        <record_name>Desktops.Rasing request </record_name>
+        <reverted_from/>
+        <source>e588bada4730311043411721336d430d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 04:29:52</sys_created_on>
+        <sys_id>a2ab3a524770311043411721336d43d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a25ce50a10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:29:52</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>2aab3a52a6703110fa3ed91d773d64d6</update_guid>
+        <update_guid_history>2aab3a52a6703110fa3ed91d773d64d6:-1156435637</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Desktops.Rasing request ">9ffbbe524770311043411721336d43c5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 04:31:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>03d25698f2604fc0a61bb9face161d90</sys_id>
+        <sys_metadata>22ab3a524770311043411721336d43d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desktops.Rasing request </sys_name>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_scope_delete display_value="">25feafcf3efd4b7889ccf78cc7134cf1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_22ab3a524770311043411721336d43d3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_22ab3a524770311043411721336d43d3">a2ab3a524770311043411721336d43d7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 04:31:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="va_branding_contact_menu">
+    <va_branding_contact_menu action="INSERT_OR_UPDATE">
+        <branding display_value="ABC  Branding ">28d75f9e47b0311043411721336d43ed</branding>
+        <display_default_icon>true</display_default_icon>
+        <display_wait_time>true</display_wait_time>
+        <icon>[</icon>
+        <label>Unmasked Input Icon</label>
+        <order>1</order>
+        <sys_class_name>va_branding_contact_menu</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 06:33:33</sys_created_on>
+        <sys_id>5af797d247f0311043411721336d4332</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ABC" source="x_1110316_abc">a588bada4730311043411721336d430b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ABC">a588bada4730311043411721336d430b</sys_scope>
+        <sys_update_name>va_branding_contact_menu_5af797d247f0311043411721336d4332</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 06:33:33</sys_updated_on>
+        <type>Icon</type>
+        <value>unmasked</value>
+        <visible>true</visible>
+    </va_branding_contact_menu>
+</record_update>
